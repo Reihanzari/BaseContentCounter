@@ -23,3 +23,6 @@ contract BaseContentCounter {
         return contentCreated[user];
     }
 }
+  return contentCreated[user];
+    }
+}
